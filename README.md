@@ -55,6 +55,9 @@ Each exercise requires:
 - An OpenStack environment set up with necessary modules.
 - Access to OpenStack CLI for administrative tasks.
 
+## Note
+For additional details, refer to the [Word Document](https://docs.google.com/document/d/1I30pxRXYx3BRxkGLBs9729-d6cC3LMxm/edit?usp=sharing&ouid=106960513552409389091&rtpof=true&sd=true).
+
 ## Contributing
 
 Feel free to contribute to this repository by adding improvements or suggestions. Please create a pull request with detailed information on your changes.
