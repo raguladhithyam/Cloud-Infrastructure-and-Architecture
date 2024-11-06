@@ -23,7 +23,7 @@ Configure Dashboard
 /etc/openstack-dashboard/local_settings.py
 
 
-# Configure dashboard to use OpenStack services on controller node
+## Configure dashboard to use OpenStack services on controller node
 OPENSTACK_HOST = "controller"
 
 # Allow hosts to access Dashboard
