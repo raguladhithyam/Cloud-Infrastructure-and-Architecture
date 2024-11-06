@@ -24,7 +24,7 @@ To use these exercises:
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/raguladhithyam/cloud-infra-lab-exercises.git
+    git clone https://github.com/raguladhithyam/Cloud-Infrastructure-and-Architecture.git
     ```
 2. Open the `.md` file corresponding to the exercise you want to perform and follow the instructions.
 
