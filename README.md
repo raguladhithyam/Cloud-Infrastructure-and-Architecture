@@ -56,7 +56,7 @@ Each exercise requires:
 - Access to OpenStack CLI for administrative tasks.
 
 ## Note
-For additional details, refer to the [Word Document](https://docs.google.com/document/d/1I30pxRXYx3BRxkGLBs9729-d6cC3LMxm/edit?usp=sharing&ouid=106960513552409389091&rtpof=true&sd=true).
+For additional details, refer to the [Word Document](https://drive.google.com/drive/folders/1Kc4hlyS2VitxcOofKAD_gNqt0y6W0UvX?usp=sharing).
 
 ## Contributing
 
